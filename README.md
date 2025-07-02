@@ -116,3 +116,4 @@ To run the tests:
 ```bash
 npm run test
 ```
+Refine README.md content for clarity and updated project info
